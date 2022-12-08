@@ -29,31 +29,3 @@ By the time you complete this course, you'll be a highly proficient Tableau user
 
 You'll be fully prepared to collect, examine, and present data for any purpose, whether you're working with scientific data or you want to make forecasts about buying trends to increase profits.
 
-What you’ll learn
-Install Tableau Desktop
-Connect Tableau to various Datasets: Excel and CSV files
-Create Barcharts
-Create Area Charts
-Create Maps
-Create Scatterplots
-Create Piecharts
-Create Treemaps
-Create Interactive Dashboards
-Create Storylines
-Understand Types of Joins and how they work
-Work with Data Blending in Tableau
-Create Table Calculations
-Work with Parameters
-Create Dual Axis Charts
-Create Calculated Fields
-Create Calculated Fields in a Blend
-Export Results from Tableau into Powerpoint, Word, and other software
-Work with Timeseries Data (two methods)
-Creating Data Extracts in Tableau
-Understand Aggregation, Granularity, and Level of Detail
-Adding Filters and Quick Filters
-Create Data Hierarchies
-Adding Actions to Dashboards (filters & highlighting)
-Assigning Geographical Roles to Data Elements
-Advanced Data Preparation (including latest updates in Tableau 9)
-
